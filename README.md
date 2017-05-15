@@ -2,6 +2,8 @@
 
 如何成为一个数据分析师？可以参见下图：
 
+![data](https://github.com/im-iron-man/data-analysis/blob/master/data.jpg)
+
 其中最重要的几个技能如下：
 
 - MySQL
