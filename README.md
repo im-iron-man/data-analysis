@@ -14,3 +14,4 @@
 本课程主要以机器学习为主，目录如下：
 
 - [介绍](https://github.com/im-iron-man/data-analysis/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/1/1.md)
+- [k邻近](https://github.com/im-iron-man/data-analysis/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/1/2.md)
