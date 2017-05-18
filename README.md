@@ -24,3 +24,4 @@
 - [Pattern Recognition And Machine Learning](https://book.douban.com/subject/2061116)
 - [集体智慧编程](https://book.douban.com/subject/3288908)
 - [机器学习实战](https://book.douban.com/subject/24703171)
+- [scikit-learn](http://scikit-learn.org/stable)
