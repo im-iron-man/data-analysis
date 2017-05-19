@@ -20,7 +20,6 @@
 - [支持向量机](https://github.com/im-iron-man/data-analysis/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/5/5.md)
 - [线性回归](https://github.com/im-iron-man/data-analysis/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/6/6.md)
 - [Logistic回归](https://github.com/im-iron-man/data-analysis/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/7/7.md)
-- [总结](https://github.com/im-iron-man/data-analysis/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/8/8.md)
 
 主要参考如下：
 
