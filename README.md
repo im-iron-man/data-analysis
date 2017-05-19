@@ -18,8 +18,7 @@
 - [决策树](https://github.com/im-iron-man/data-analysis/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/3/3.md)
 - [朴素贝叶斯](https://github.com/im-iron-man/data-analysis/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/4/4.md)
 - [支持向量机](https://github.com/im-iron-man/data-analysis/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/5/5.md)
-- [线性回归](https://github.com/im-iron-man/data-analysis/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/6/6.md)
-- [Logistic回归](https://github.com/im-iron-man/data-analysis/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/7/7.md)
+- [Logistic回归](https://github.com/im-iron-man/data-analysis/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/6/6.md)
 
 主要参考如下：
 
