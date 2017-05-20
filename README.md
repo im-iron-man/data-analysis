@@ -27,3 +27,5 @@
 - [集体智慧编程](https://book.douban.com/subject/3288908)
 - [机器学习实战](https://book.douban.com/subject/24703171)
 - [scikit-learn](http://scikit-learn.org/stable)
+
+其中习题答案在[data-analysis-homework](https://github.com/im-iron-man/data-analysis-homework)。
